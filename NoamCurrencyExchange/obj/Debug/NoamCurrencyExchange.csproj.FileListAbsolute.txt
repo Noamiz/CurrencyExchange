@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\bin\Debug\NoamCurrencyExchange.exe.config
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\bin\Debug\NoamCurrencyExchange.exe
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\bin\Debug\NoamCurrencyExchange.pdb
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.Properties.Resources.resources
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.csproj.CopyComplete
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.exe
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.pdb
+C:\Users\User\source\repos\NoamCurrencyExchange\NoamCurrencyExchange\obj\Debug\NoamCurrencyExchange.MainUI.resources
