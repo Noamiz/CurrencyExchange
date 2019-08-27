@@ -6,6 +6,6 @@ I chose to save and read the data to/ from a file because in this project there 
 2. In order to build distributed system as possible, I devided it to a modle-view-controller design pattern (MVC). The data structures are independent of the user interface and controller.
 3. BONUS: In order to show that I support a situation where there was a problem with the original data services, I implemented 2 different currency exchange rates APIs from 2 different websites:
 * https://fixer.io
-* https://openexchangerates.org/
+* https://openexchangerates.org/  
 I created an Interface called FinanceFetcher.cs for implement each API (classes OpenExRatesFinanceFetcher.cs for OpenExchangeRates API and FixerFinanceFetcher.cs for fixer's API) with the same methodes, properties and rules.
 This way we are having an option for easly implementing various APIs or new APIs if needed.
